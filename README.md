@@ -1,6 +1,6 @@
 # Momentum
 
-Приложение "Momentum" предоставляет пользователям удобный инструмент для создания, отслеживания и анализа своих привычек.
+The Momentum app provides users with a convenient tool to create, track and analyze their habits.
 
 Operation system: Windows(x64)
 
