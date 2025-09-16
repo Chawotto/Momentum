@@ -7,7 +7,7 @@ Operation system: Windows(x64)
 Language: Python.  
 Interface language: Python.
 
-[SRS of program]()
+[SRS of program](Requirements/SRS.md)
 
 [User interface images]()
 
@@ -16,5 +16,5 @@ Interface language: Python.
 [Python code]()
 
 
-[Test plan]()  
+[Test plan]()
 [Test results]()
