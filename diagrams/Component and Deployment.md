@@ -2,7 +2,7 @@
 
 ### Диаграмма компонентов
 
-![Диаграмма компонентов](https://raw.githubusercontent.com/user/repo/main/Diagrams/Images/Momentum_ComponentDiagram.png)
+![Диаграмма компонентов](https://github.com/Chawotto/Momentum/blob/e9a2ff58d839283b0ad8459e42a3c48554f0a06e/diagrams/Images/component_diagram.png)
 
 **Описание компонентов:**
 *   **UI (`app.py`, `pages.py`):** Компоненты, отвечающие за пользовательский интерфейс, навигацию и отображение данных.
@@ -13,7 +13,7 @@
 
 ### Диаграмма развёртывания
 
-![Диаграмма развёртывания](https://raw.githubusercontent.com/user/repo/main/Diagrams/Images/Momentum_DeploymentDiagram.png)
+![Диаграмма развёртывания](https://github.com/Chawotto/Momentum/blob/e9a2ff58d839283b0ad8459e42a3c48554f0a06e/diagrams/Images/deploy_diag.png)
 
 **Описание:**
 Приложение "Momentum" разворачивается на персональном компьютере пользователя. Для его работы требуется среда выполнения Python, которая исполняет артефакты приложения (файлы с кодом `.py`). Приложение взаимодействует с файловой системой для доступа к файлу данных `data.json` и ресурсам (иконкам).

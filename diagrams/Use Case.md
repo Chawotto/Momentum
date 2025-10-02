@@ -1,4 +1,4 @@
-![Диаграмма вариантов использования](https://raw.githubusercontent.com/user/repo/main/Diagrams/Images/Momentum_UseCase.png) 
+![Диаграмма вариантов использования](https://github.com/Chawotto/Momentum/blob/823efc64c31a9b7cefb6ef4cb3180cd8b7b6186a/diagrams/Images/use_case.png) 
 
 # Глоссарий
 

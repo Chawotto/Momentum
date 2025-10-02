@@ -11,7 +11,7 @@ Interface language: Python.
 
 [User interface images](Mockups)
 
-[Diagrams]()
+[Diagrams](diagrams)
 
 [Python code]()
 
