@@ -9,7 +9,7 @@ Interface language: Python.
 
 [SRS of program](requirements/SRS.md)
 
-[User interface images](Mockups)
+[User interface images](mockups)
 
 [Diagrams](diagrams)
 
