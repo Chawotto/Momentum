@@ -1,6 +1,6 @@
 # Диаграмма классов "Momentum"
 
-![Диаграмма классов](https://github.com/Chawotto/repo/main/Diagrams/Images/Momentum_ClassDiagram.png)
+![Диаграмма классов](https://github.com/Chawotto/Momentum/blob/4eb1c8099f61b2953f342b154b8158e86e0a93b4/diagrams/Images/class_diagram.png)
 
 # Глоссарий
 
