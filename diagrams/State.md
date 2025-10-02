@@ -2,7 +2,7 @@
 
 Диаграмма описывает состояния пользовательского интерфейса, соответствующие различным экранам приложения.
 
-![Диаграмма состояний UI](https://raw.githubusercontent.com/user/repo/main/Diagrams/Images/Momentum_State_UINavigation.png)
+![Диаграмма состояний UI](https://github.com/Chawotto/Momentum/blob/06482837664f65178c375d0bd1b244a82104590c/diagrams/Images/state_ui_navigation.png)
 
 | Состояние | Описание |
 |:--|:--|
