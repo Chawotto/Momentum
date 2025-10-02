@@ -10,4 +10,4 @@
 
 ### 2. Отслеживание ежедневного прогресса<a name="2"></a>
 
-![Отслеживание ежедневного прогресса](https://github.com/Chawotto/Momentum/blob/ceedfab3d756883f70df557cd29aafc401a9040f/diagrams/Images/activity_edit_habit.png)
+![Отслеживание ежедневного прогресса](https://github.com/Chawotto/Momentum/blob/6e2461d2158f6d77d6b9af70bedc97f02af0c6ae/diagrams/Images/activity_add_progress.png)
